@@ -1,7 +1,7 @@
 Document-Similarity-Detection
 =============================
 
-Rapid miner package for detection of document dimilarity based on keyword matching
+Rapid miner package for detection of document similarity based on keyword matching
 
 A simple inplementation of document similarity detection using keyword matching.
 
